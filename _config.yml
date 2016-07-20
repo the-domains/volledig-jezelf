@@ -12,3 +12,8 @@ color:
     - '#FFFFFF'
     - '#F26101'
 name: Volledig Jezelf
+navigation:
+  - id: 'http://www.volledigjezelf.com'
+    url: 'http://www.volledigjezelf.com'
+    name: Home
+    type: external
