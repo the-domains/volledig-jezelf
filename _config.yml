@@ -17,3 +17,7 @@ navigation:
     url: 'http://www.volledigjezelf.com'
     name: Home
     type: external
+  - id: cc733aa1-17af-4b6e-9b28-aed8df3989c2
+    url: 2016-07-20-about-me.html
+    name: About Me
+    type: content
